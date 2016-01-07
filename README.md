@@ -1,2 +1,2 @@
 # Hack 'N' Sec
-Hacking and Security collected codes
+Hacking and Security Collected Codes
