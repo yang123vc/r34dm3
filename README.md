@@ -265,4 +265,3 @@
 * [Python Programming by @vinta](https://github.com/vinta/awesome-python) - General Python programming
 * [Android Security](https://github.com/ashishb/android-security-awesome) - A collection of android security related resources
 * [Awesome Awesomness](https://github.com/bayandin/awesome-awesomeness) - The List of the Lists
-* 
