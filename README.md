@@ -1,5 +1,5 @@
 # Hack 'N' Sec
-Hacking and Security Collected Resources
+Hacking and Cracking Resources
 
 - [Online Resources](#online-resources)
   - [Penetration Testing Resources](#penetration-testing-resources)
